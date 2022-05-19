@@ -3,6 +3,8 @@
 Soy un desarrollador FullStack de Móstoles (Madrid)
 
 Puedes encontrarme en: https://www.linkedin.com/in/álvaro-aparicio/
+
+<img src="https://unsplash.com/es/fotos/_UeY8aTI6d0" alt="tech trainning"/>
 <!--
 **alvaro2203/alvaro2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

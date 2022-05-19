@@ -1,5 +1,9 @@
-### Hi there 👋
+### !Hola! Soy Álvaro Aparicio 👋
 
+Soy un desarrollador FullStack de Móstoles (Madrid)
+
+Puedes encontrarme en: 
+[linkedin] https://www.linkedin.com/in/álvaro-aparicio/
 <!--
 **alvaro2203/alvaro2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

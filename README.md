@@ -1,6 +1,6 @@
 ### !Hola! Soy Álvaro Aparicio 👋
 
-Soy un desarrollador FullStack (React JS & TS) de Móstoles (Madrid)
+Soy desarrollador Web de Móstoles (Madrid)
 
 Puedes encontrarme en: https://www.linkedin.com/in/álvaro-aparicio/
 

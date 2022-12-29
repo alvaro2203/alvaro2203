@@ -1,27 +1,3 @@
-<!--### !Hola! Soy Álvaro Aparicio 👋
-
-Soy desarrollador Web de Móstoles (Madrid)
-
-Puedes encontrarme en: https://www.linkedin.com/in/álvaro-aparicio/
-
-<img src="https://images.unsplash.com/photo-1484807352052-23338990c6c6?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dGVjaCUyMHRyYWluaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500" alt="tech trainning"/>
--->
-
-<!--
-**alvaro2203/alvaro2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Álvaro Aparicio</h1>
 <h3 align="center">A frontend developer from Madrid (Spain)</h3>
 
